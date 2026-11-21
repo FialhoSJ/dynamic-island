@@ -1,0 +1,4 @@
+PySide6==6.12.0
+psutil==7.2.2
+winrt-Windows.Media.Control==4!10.0.28000.2957
+pycaw==20260927
